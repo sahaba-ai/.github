@@ -4,7 +4,7 @@ Empowering Innovation: Sahaba (Cloud in Arabic) - Crafting Cloud-Native Solution
 
 <p align="center">
   <a href="https://sahaba.ai" style="display: block; padding: 1em 0;">
-    <img alt="Data Mountain" border="0" width="60%" src="https://sahaba.ai/images/mountain.svg"/>
+    <img alt="Data Mountain" border="0" width="60%" src="https://sahaba.ai/media/sahaba-ai-logo.svg"/>
   </a>
 </p>
 
@@ -19,6 +19,7 @@ Our international team can advise you confidentially and free of charge on the f
 ---
 
 Besides [our services](https://sahaba.ai/#services), we have a couple of sub-projects:
+- ⭐ [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap): A pragmatic DevOps roadmap for DevOps career in the Cloud Native era following the Agile MVP style!
 - ⭐ [DevOpsHive](https://github.com/DevOpsHiveHQ): Focusing on closing the gap between DevOps Golden Triangle (People, Process, and Technology).
 - ⭐ [KubeZero](https://github.com/kubezero/kubezero): A production-ready out-of-the-box Platform Orchestrator with GitOps designed for multi-environment Cloud Native setup.
 
